@@ -13,7 +13,7 @@ let peach = [];
 let scoreMax = 50;
 let currentScore = 0;
 let scores = [0, 0, 0];
-let speed = 5;d
+let speed = 5;
 let multiplier = 1;
 let indicator = 1;
 
